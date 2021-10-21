@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Hong Nguyen
+- 👋 Hi, I’m Hong Nguyen, PhD student of University of Southern and California
 - 👀 I’m interested in Information theory, wireless communnication, Iot, Federated learning
-- 🌱 I’m currently learning FL, ML, DL
-- 💞️ I’m looking to collaborate on Federated Learning
+- 🌱 I’m currently take course on Probabilities and Linear Algebra
+- 💞️ I’m looking for internship opportunities
 - 📫 How to reach me: hongn@usc.edu
 
 <!---
