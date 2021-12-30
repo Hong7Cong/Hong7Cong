@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hong Nguyen, PhD student of University of Southern California
-- 👀 I’m interested in Information theory, Data Analysis & Magagement, Machine Learning
-- 🌱 I’m currently take course on Probabilities and Linear Algebra
+- 👀 I’m interested in Information theory, Time Series Data Analysis & Magagement, Machine Learning
 - 💞️ I’m looking for internship opportunities, colaborations
 - 📫 How to reach me: hongn@usc.edu
 
