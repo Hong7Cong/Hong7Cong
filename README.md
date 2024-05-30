@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hong Nguyen, a Ph.D. student at the University of Southern California
-- 👀 I’m interested in Signal and image processing for medical use
+- 👀 I’m interested in AI for Health and Bio/Medical problems
 - 💞️ I’m looking for internship opportunities, colaborations
 - 📫 How to reach me: hongn@usc.edu
 
